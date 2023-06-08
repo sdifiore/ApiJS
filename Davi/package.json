@@ -1,0 +1,13 @@
+{
+  "name": "davi",
+  "version": "0.0.0",
+  "description": "Davi",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0"
+  },
+  "eslintConfig": {}
+}
